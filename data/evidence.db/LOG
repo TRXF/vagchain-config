@@ -1,0 +1,15 @@
+=============== Aug 16, 2022 (UTC) ===============
+17:33:35.670165 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:33:35.673630 db@open opening
+17:33:35.674046 version@stat F·[] S·0B[] Sc·[]
+17:33:35.675973 db@janitor F·2 G·0
+17:33:35.676012 db@open done T·2.359258ms
+=============== Aug 16, 2022 (UTC) ===============
+17:38:22.777609 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:38:22.777809 version@stat F·[] S·0B[] Sc·[]
+17:38:22.777848 db@open opening
+17:38:22.777948 journal@recovery F·1
+17:38:22.779297 journal@recovery recovering @1
+17:38:22.786459 version@stat F·[] S·0B[] Sc·[]
+17:38:22.791719 db@janitor F·2 G·0
+17:38:22.791762 db@open done T·13.897921ms
